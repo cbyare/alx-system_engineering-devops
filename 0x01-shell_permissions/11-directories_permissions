@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod ugo+x  ls -l -d */
+chmod -R ugo+X ls -l -d */
